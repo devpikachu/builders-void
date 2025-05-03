@@ -15,17 +15,17 @@ dependencies {
 
     modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
-
-    // Dependencies
     modImplementation("net.blay09.mods:balm-fabric:${balm_version}+${minecraft_version}") {
         exclude(group: 'net.blay09.mods', module: 'shared-bridge')
     }
+
+    // Dependencies
+    modImplementation "com.terraformersmc:modmenu:${modmenu_version}"
     modRuntimeOnly "me.shedaniel.cloth:cloth-config-fabric:${cloth_config_version}"
     modRuntimeOnly "maven.modrinth:yeetus-experimentus:${yeetus_experimentus_version}-fabric"
 
     // Dev dependencies
     modRuntimeOnly "mezz.jei:jei-${minecraft_version}-fabric:${jei_version}"
-    modCompileOnly "com.terraformersmc:modmenu:${modmenu_version}"
 
     implementation 'com.google.code.findbugs:jsr305:3.0.1'
     implementation project(":common")

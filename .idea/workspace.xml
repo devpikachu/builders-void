@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c586c79-a5bb-43e8-b9cd-7d384fd5e5f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/common/builders-void.common.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/common/builders-void.common.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Fabric_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Fabric_Server___fabric__fabric.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forge/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/forge/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +99,7 @@
     "Gradle.builders-void [genSourcesWithFernFlower].executor": "Run",
     "Gradle.builders-void [modrinth].executor": "Run",
     "Gradle.builders-void [runData].executor": "Run",
+    "Gradle.builders-void-1.20.1:fabric [:fabric:net.fabricmc.devlaunchinjector.Main.main()].executor": "Run",
     "Gradle.builders-void-1.20.1:forge [:forge:net.neoforged.devlaunch.Main.main()].executor": "Run",
     "Gradle.builders-void:common [build].executor": "Run",
     "Gradle.builders-void:common [clean].executor": "Run",
@@ -134,7 +133,7 @@
       <recent name="$PROJECT_DIR$/common/src/main/resources/assets/buildersvoid/textures/item" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.forge - Client">
+  <component name="RunManager" selected="Application.Fabric Client (:fabric)">
     <configuration name="forge - Client" type="Application" factoryName="Application">
       <envs>
         <env name="MOD_CLASSES" value="buildersvoid%%$PROJECT_DIR$/forge/build/classes/java/main:buildersvoid%%$PROJECT_DIR$/forge/build/resources/main" />
@@ -341,6 +340,7 @@
       <workItem from="1746288492044" duration="3355000" />
       <workItem from="1746294026736" duration="57000" />
       <workItem from="1746294236547" duration="36000" />
+      <workItem from="1746295736616" duration="82000" />
     </task>
     <servers />
   </component>
