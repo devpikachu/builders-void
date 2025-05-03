@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c586c79-a5bb-43e8-b9cd-7d384fd5e5f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/logic/ComponentLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Fabric_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Fabric_Server___fabric__fabric.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/ModConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/ModConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/command/ModCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/command/ModCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/item/LinkedVoidPearl.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/item/LinkedVoidPearl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/item/VoidPearl.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/item/VoidPearl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/logic/DimensionLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/logic/DimensionLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/logic/TeleportLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/dev/detpikachu/buildersvoid/logic/TeleportLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/buildersvoid/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/buildersvoid/lang/en_us.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/forge/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,41 +85,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [curseforge].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [genSourcesWithCfr].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [genSourcesWithFernFlower].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [modrinth].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void [runData].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:common [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:common [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:fabric [:fabric:net.fabricmc.devlaunchinjector.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:fabric [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:fabric [runData].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:forge [:forge:net.neoforged.devlaunch.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.builders-void:forge [runData].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1.20.1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/andrei/Repos/builders-void/changelogs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.builders-void [build].executor": "Run",
+    "Gradle.builders-void [clean].executor": "Run",
+    "Gradle.builders-void [curseforge].executor": "Run",
+    "Gradle.builders-void [genSourcesWithCfr].executor": "Run",
+    "Gradle.builders-void [genSourcesWithFernFlower].executor": "Run",
+    "Gradle.builders-void [modrinth].executor": "Run",
+    "Gradle.builders-void [runData].executor": "Run",
+    "Gradle.builders-void:common [build].executor": "Run",
+    "Gradle.builders-void:common [clean].executor": "Run",
+    "Gradle.builders-void:fabric [:fabric:net.fabricmc.devlaunchinjector.Main.main()].executor": "Run",
+    "Gradle.builders-void:fabric [build].executor": "Run",
+    "Gradle.builders-void:fabric [runData].executor": "Run",
+    "Gradle.builders-void:forge [:forge:net.neoforged.devlaunch.Main.main()].executor": "Run",
+    "Gradle.builders-void:forge [runData].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "1.20.1",
+    "last_opened_file_path": "/home/andrei/Repos/builders-void-1.20.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/changelogs" />
@@ -342,6 +333,7 @@
       <workItem from="1746263435760" duration="13713000" />
       <workItem from="1746278946977" duration="1988000" />
       <workItem from="1746288492044" duration="3355000" />
+      <workItem from="1746294026736" duration="21000" />
     </task>
     <servers />
   </component>

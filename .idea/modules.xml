@@ -3,10 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/builders-void.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/builders-void.common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/builders-void.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/builders-void.forge.main.iml" />
     </modules>
   </component>
